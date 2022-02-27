@@ -1,6 +1,4 @@
 import java.util.Scanner;
-import java.io.*;
-import java.lang.*;
 import java.util.ArrayList;
 import java.util.Random;
 class ttt {
