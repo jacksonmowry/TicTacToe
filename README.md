@@ -4,4 +4,4 @@
 To install clone the repo and build with `javac ttt.java`
 
 ## Running
-To run the game fire up a terminal and use `java ttt.java`, enjoy!
+To run the game fire up a terminal and use `java ttt`, enjoy!
